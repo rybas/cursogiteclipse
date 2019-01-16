@@ -10,4 +10,4 @@ para el 2
 
 cambio olvi
 
-añado para subir al servidor 1
+añado para subir al servidor git
