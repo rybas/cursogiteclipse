@@ -8,8 +8,6 @@ cambio para fast forward
 
 para el 2
 
-cambio olvidado
-
-cambios para la prueba de github 2
+cambio olvi
 
 añado para subir al servidor
