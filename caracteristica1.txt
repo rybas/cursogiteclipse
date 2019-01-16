@@ -11,4 +11,8 @@ para el 2
 cambio olvi
 
 añado para subir al servidor git
+<<<<<<< HEAD
 subiendo a git segunda vez
+=======
+subiendo a git
+>>>>>>> refs/remotes/origin/master
