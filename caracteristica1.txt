@@ -11,3 +11,4 @@ para el 2
 cambio olvi
 
 añado para subir al servidor git
+subiendo a git
